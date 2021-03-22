@@ -1,3 +1,7 @@
+a {
+  text-decoration: none;
+}
+
 .movies .movie {
   width: 45%;
   min-width: 500px;
