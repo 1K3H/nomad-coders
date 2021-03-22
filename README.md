@@ -1,3 +1,3 @@
-# Movie App
+# Nomad Coders
 
-Nomad Coders React JS Course
+Nomad Coders Lecture
